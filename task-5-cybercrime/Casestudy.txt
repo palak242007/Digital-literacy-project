@@ -1,0 +1,7 @@
+One common cybercrime is social media account hacking. Many people receive messages on platforms like Instagram from unknown accounts or even from friends whose accounts are already hacked. These messages often contain a link or say something like “Is this you?” which makes the person curious.
+
+In one case, a student received a message from a friend’s account with a link. Since it looked like it was sent by someone they knew, they clicked on it without thinking much. The link opened a login page that looked exactly like Instagram. After entering their username and password, they lost access to their account. Later, the same account started sending similar messages to others.
+
+This happens because people trust messages coming from known contacts and don’t verify the link properly. Hackers take advantage of this and spread the attack further.
+
+This shows that even familiar messages can be risky. It is important to avoid clicking unknown links and never enter login details on suspicious pages. Being careful can prevent such issues.
