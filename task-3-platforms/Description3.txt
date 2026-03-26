@@ -1,0 +1,5 @@
+To solve this task, I have used two platforms: HackerRank and Google Forms. Using HackerRank, I have solved the “if-else” problem. I was a bit confused in the beginning, especially when it came to solving the conditions. However, after going through the prompt and making a few attempts, I finally understood the problem. It was one of those moments when I was happy to see the code working correctly.
+
+For the second task, I have created a Digital Literacy Quiz using Google Forms. It was quite easy. Adding different kinds of questions was not a problem. I was not expecting it to be that easy to create a proper quiz and check the results.
+
+Working on this task has shown me that these platforms are quite useful. It has also helped me to be more open to new things and not avoid them. It was not a hard task to complete, and I have managed to do something useful.
